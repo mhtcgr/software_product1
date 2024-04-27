@@ -1,0 +1,8 @@
+# x should have the value 3, so 3 and then 9 should be printed.
+x = 1.0 + 2.0
+print(x)
+print(x * 3)
+
+# y should have the value 7, so 21 should be printed.
+y = 10 - x
+print(x * y)
